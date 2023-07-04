@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset ="UTF-8">
+<meta neme="viewport" content="width=device-width,inital-scale=1.0">
+<title>Document<title>
+</head>
+<body>
+<button onclick="x()">Google</button>
+<script>
+function x()
+{
+
+if (window.confirm("Are you sure you to visit Google?"))
+{
+window.location.href ="https://www.google.co.uk";
+}
+else
+{
+window.alert("You decided to saty");
+}
+}
+</script>
+</body>
+</html>
