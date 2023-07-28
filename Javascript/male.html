@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>form</title>
+<script>
+function x(){
+if(document.a.un.value==""){
+alert("Can't sign in");
+}
+if(document.a.pass.value.length==6){
+alert("Minimum character length is 6");
+}
+if(document.a.g.value=="")
+{
+alert("gender not selected");
+}
+}
+if(document.a.select.checked)
+{
+alert("select checkbox");
+}
+}
+</script>
+</head>
+<body>
+<form name="a">
+Username
+<input type="text" name="un"><br/>
+Password
+<input type="password" name="pass"><br/>
+male
+<input type="radio" name="g" value="male">
+female
+<input type="radio" name="g" value="female"><br>
+selected:
+<input type="checkbox" name="select" value="s">send email<br>
+
+<input type="button" name="s" value="Sign In" onClick="x()";>
+<input type="button" name="r" value="Clear" onClick="x()";>
+
+select:
+<select name="a">
+<option value="empty">select</option>
+<option value="u">ug</option>
+<option value="p">pg</option>
+</form>
+</body>

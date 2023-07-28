@@ -1,0 +1,15 @@
+<html>
+<head>
+    <title>hello</title>
+</head>
+<body>
+<button onclick="showalert()">Click here</button>
+
+<script>
+function showalert(){
+windows.alert("This is an alert");
+}
+</script>
+
+</body>
+</html>

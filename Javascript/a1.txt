@@ -1,0 +1,12 @@
+<html>
+<head>
+    <title>hello</title>
+</head>
+<body>
+
+<script scr="a.js">
+
+</script>
+
+</body>
+</html>

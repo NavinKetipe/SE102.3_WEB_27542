@@ -1,0 +1,28 @@
+<html>
+<head>
+<title>form</title>
+<script>
+function x(){
+if(document.a.un.value==""){
+alert("Can't sign in");
+}
+if(document.a.pass.value.length==6){
+alert("Minimum character length is 6");
+}
+}
+</script>
+</head>
+<body>
+<form name="a">
+Username
+<input type="text" name="un"><br/>
+Password
+<input type="password" name="pass"><br/>
+<input type="button" name="s" value="Sign In" onClick="x()";>
+<input type="button" name="r" value="Clear" onClick="x()";>
+male
+<input type="radio" name="g" value="male">
+female
+<input type="radio" name="g" value="female">
+</form>
+</body>

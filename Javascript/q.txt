@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>hello</title>
+</head>
+<body>
+
+<script>
+funtion w
+document.write(c);
+
+</script>
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>hello</title>
+<script>
+function x()
+{
+alert("hello")
+}
+</script>
+</head>
+<body>
+Hello form body
+<script>
+x("NSBM");
+x("NAVi");
+</script>
+</body>
+</html>

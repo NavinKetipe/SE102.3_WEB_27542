@@ -1,0 +1,23 @@
+<html>
+<head>
+<title>hi</title>
+<script>
+prompt("enter your name");
+
+</script>
+
+<script>
+function x()
+{
+alert("hello")
+}
+</script>
+</head>
+<body>
+Hello form body
+<script>
+x("NSBM");
+x("NAVi");
+</script>
+</body>
+</html>

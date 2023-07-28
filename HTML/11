@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>Nsbm</title>
+        <style>
+            h1
+            {color: blue;
+            }
+            
+        </style>
+    </head>
+    <body>
+        <h1 class="a">Nsbm</h1>
+         <h1 calss="b">Nsbm</h1>
+         <h1 calss="c">Nsbm</h1>
+         <h1 class="d">Nsbm</h1>
+        
+    </body>
+</html>
+</html>

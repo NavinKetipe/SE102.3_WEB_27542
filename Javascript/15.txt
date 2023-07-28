@@ -1,0 +1,19 @@
+<html>
+<head>
+<title>hi</title>
+<script>
+function x(nme)
+{
+alert("welcome);
+}
+</script>
+</head>
+<body>
+<script>
+<from name="x">
+name:<input type=text name="s"><br>
+<input type=button name="c" vakue="click" onClick="x()">
+</script>
+</from>
+</body>
+</html>

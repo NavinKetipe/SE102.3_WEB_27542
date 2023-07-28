@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>hello</title>
+</head>
+<body>
+
+<script>
+a = prompt("enter number ");
+b = prompt("enter number ");
+
+</script>
+
+</body>
+</html>

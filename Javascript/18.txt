@@ -1,0 +1,12 @@
+<html>
+<head>
+</head>
+<body>
+<script language="JvaScript" type="text/javascript">
+todaysDate=newe Date();
+document.wirte("Today's date is:"+ TodaysDate);
+var MyYear + TodaysDate.getFullYear();
+document.wirte("This year is:"+MyYear);
+</script>
+</body>
+</html>
